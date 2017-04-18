@@ -1,0 +1,25 @@
+{
+  "name": "BookBook",
+  "description": "My Book application",
+  "main": "index.js",
+  "authors": [
+    "P. Castets"
+  ],
+  "license": "BSD-2-Clause",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-schema-form": "~0.8.12",
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.1.4"
+  }
+}
